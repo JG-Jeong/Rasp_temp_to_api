@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.aws-sam/
+.env
+Python-3.9.19/
+Python-3.9.19.tar.xzvenv/
+__pycache__/
+
